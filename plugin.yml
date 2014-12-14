@@ -1,0 +1,9 @@
+name: Ghost
+version: 1.0
+author: YOLO_O3O
+
+main: me.YOLO.ghost.Ghost
+
+commands:
+  ghost:
+  unghost:
